@@ -32,14 +32,10 @@ LIMIT 10;
 
 -- ANALYSIS
 
-
     Analysis of the top 10 data analyst jobs in 2023 shows:
-
-        Salaries range from $184,000 to $650,000, (average: $264,500), highlighting substantial earning potential
-
-        Employers span diverse industries, including SmartAsset, Meta, and AT&T 
-
-        Titles vary considerably, from Data Analyst to Director of Analytics 
+		Salaries range from $184,000 to $650,000, (average: $264,500), highlighting substantial earning potential
+		Employers span diverse industries, including SmartAsset, Meta, and AT&T 
+		Titles vary considerably, from Data Analyst to Director of Analytics 
 
 Result Set [Top 10 Remote Data Analyst Jobs in 2023] :
 -------------------------
