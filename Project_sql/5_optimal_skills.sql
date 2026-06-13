@@ -10,7 +10,7 @@ Methodology Summary:
 - optimal_score = 0.5*(normalized demand) + 0.5*(normalized salary)
 - Equal weighting (0.5/0.5) balances job security (demand) vs financial benefit (salary)
 - Weights can be adjusted: e.g. 0.6/0.4 to prioritize demand for job seekers
--                                  0.4/0.6 to prioritize salary for career switchers
+-                               0.4/0.6 to prioritize salary for career switchers
 
 Full methodology documented in README.*/
 
